@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MTCMarkFranco
-- 👀 I’m interested in writing code, building solutions, and security automation.
+- 👀 I’m interested in writing code, building solutions, and automation (SCM, DEVOPS, SRE, Platform Engineering).
 - 🌱 I’m currently contributing to asp.net core function extensions.
-- 💞️ I’m looking to collaborate on Microsoft Teams Development.
+- 💞️ I’m looking to collaborate on OpenAI, ChatBots, and Microsoft Teams Development.
 - 📫 How to reach me: mark.franco@microsoft.com.
 
 <!---
